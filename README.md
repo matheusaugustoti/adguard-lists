@@ -1,1 +1,1 @@
-# filter-lists
+Filter lists for Blocklist and Allowlist
