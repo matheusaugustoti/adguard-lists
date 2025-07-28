@@ -55,6 +55,7 @@
 @@||tiktok.com^$important
 @@||tiktokcdn.com^$important
 @@||tiktokv.com^$important
+@@||allpan.com.br^$important
 
 # =====================
 # Vimeo
