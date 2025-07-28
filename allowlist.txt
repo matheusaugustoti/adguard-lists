@@ -17,6 +17,24 @@
 @@||api.homolog.askwaiter.com.br^$important
 
 # =====================
+# Microsoft
+# =====================
+
+@@||storeedgefd.dsx.mp.microsoft.com^$important
+@@||storeedgefd.microsoft.com^$important
+@@||www.microsoft.com^$important
+@@||dl.delivery.mp.microsoft.com^$important
+@@||emdl.ws.microsoft.com^$important
+@@||assets.msn.com^$important
+@@||client.wns.windows.com^$important
+@@||login.live.com^$important
+@@||login.microsoftonline.com^$important
+@@||device.auth.microsoft.com^$important
+@@||nexus.officeapps.live.com^$important
+@@||v10.events.data.microsoft.com^$important
+@@||settings-win.data.microsoft.com^$important
+
+# =====================
 # Driver Booster
 # =====================
 
